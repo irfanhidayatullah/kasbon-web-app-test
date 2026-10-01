@@ -4,7 +4,7 @@ Aplikasi web yang dikembangkan sebagai bagian dari uji kompetensi teknis, berfok
 
 ## 🚀 (Live Demo)
 
-[Lihat Demo](https://tautan-demo-anda.com)
+[Lihat Demo](https://kasbon-web-app-test.vercel.app/)
 
 ## 🛠️ Panduan Memulai
 
